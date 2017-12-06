@@ -1,0 +1,3 @@
+com\mycompany\model\TaxPayer.class
+com\mycompany\Service\TaxService.class
+com\mycompany\Resources\TaxResources.class
